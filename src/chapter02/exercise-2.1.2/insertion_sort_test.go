@@ -2,7 +2,7 @@ package exercise_2_1_2
 
 import (
 	"testing"
-	utils "chapter02/common/testUtils"
+	utils "common/testUtils"
 )
 
 func TestInsertionSort(t *testing.T) {

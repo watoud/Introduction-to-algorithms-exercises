@@ -2,7 +2,7 @@ package exercise_2_1_4
 
 import (
 	"testing"
-	utils "chapter02/common/testUtils"
+	utils "common/testUtils"
 )
 
 func TestBinaryArrayAddition(t *testing.T) {
